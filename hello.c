@@ -1,7 +1,7 @@
 /**
  * Author: Jakobi Washington
  * Date: 2023/08/24
- *
+ * 
  * This program prints my name and major
  *
 */
